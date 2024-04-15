@@ -32,3 +32,4 @@ if __name__ == "__main__":
           f"({NUMBER_OF_DONE_TASKS}/{TOTAL_NUMBER_OF_TASKS}):")
     for title in TASK_TITLE:
         print("\t ", title)
+        
